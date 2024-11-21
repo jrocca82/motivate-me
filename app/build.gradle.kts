@@ -70,6 +70,7 @@ dependencies {
     implementation(libs.glance.appwidget.preview)
     implementation(libs.glance.material3)
     implementation(libs.glance.preview)
+    implementation(libs.generativeai)
 
     debugImplementation(libs.androidx.ui.tooling)
 }
